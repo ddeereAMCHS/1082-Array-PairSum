@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test 1 (Sum to 19)",
+      "setup": "javac PairSum.java",
+      "run": "java PairSum",
+      "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n19",
+      "output": "12 7\r\n15 4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test 2 (Sum to 18)",
+      "setup": "javac PairSum.java",
+      "run": "java PairSum",
+      "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n18",
+      "output": "No pairs sum to 18",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

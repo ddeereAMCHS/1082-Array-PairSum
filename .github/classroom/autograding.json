@@ -5,8 +5,8 @@
       "setup": "javac PairSum.java",
       "run": "java PairSum",
       "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n19",
-      "output": "12 7\r\n15 4",
-      "comparison": "included",
+      "output": "12 7\r\n15 4$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -15,8 +15,8 @@
       "setup": "javac PairSum.java",
       "run": "java PairSum",
       "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n18",
-      "output": "No pairs sum to 18",
-      "comparison": "included",
+      "output": "No pairs sum to 18$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     }

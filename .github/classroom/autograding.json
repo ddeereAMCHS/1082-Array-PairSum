@@ -15,7 +15,7 @@
       "setup": "javac PairSum.java",
       "run": "java PairSum",
       "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n18",
-      "output": "^(?:(?!No pairs sum to 18).\n)*No pairs sum to 18(?:(?!No pairs sum to 18).\n)*$",
+      "output": "^(?:(?!No pairs sum to 18).|\n)*No pairs sum to 18(?:(?!No pairs sum to 18).|\n)*$",
       "comparison": "regex",
       "timeout": 10,
       "points": null

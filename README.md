@@ -1,5 +1,7 @@
 # Array PairSum
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `PairSum.java`
 - Prompt the user for a number
   - This will be the number of values the user enters

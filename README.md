@@ -11,7 +11,7 @@
   - Print all pairs of integers in the array that sum to the target value
   - If there are no pairs that sum to the target value, print "No pairs sum to `TARGET VALUE`"
 
-Example Input:\
+***Example Input:***\
 8\
 12\
 7\
@@ -22,11 +22,11 @@ Example Input:\
 4\
 30\
 19\
-Example Output:\
+***Example Output:***\
 12 7\
 15 4\
 \
-Example Input:\
+***Example Input:***\
 8\
 12\
 7\
@@ -37,5 +37,5 @@ Example Input:\
 4\
 30\
 18\
-Example Output:\
+***Example Output:***\
 No pairs sum to 18

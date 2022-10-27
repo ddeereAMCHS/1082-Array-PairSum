@@ -23,8 +23,8 @@
 30\
 19\
 ***Example Output:***\
-12 7\
-15 4\
+12 and 7 sum to 19\
+15 and 4 sum to 19\
 \
 ***Example Input:***\
 8\

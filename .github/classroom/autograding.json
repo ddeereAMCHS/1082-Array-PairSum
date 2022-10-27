@@ -5,7 +5,7 @@
       "setup": "javac PairSum.java",
       "run": "java PairSum",
       "input": "8\r\n12\r\n7\r\n5\r\n8\r\n15\r\n23\r\n4\r\n30\r\n19",
-      "output": "12 7\n15 4$",
+      "output": "12 and 7 sum to 19\n15 and 4 sum to 19$",
       "comparison": "regex",
       "timeout": 10,
       "points": null

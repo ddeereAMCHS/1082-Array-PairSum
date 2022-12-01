@@ -9,6 +9,8 @@
 - Prompt the user for a target value
 - After you have read in all the values:
   - Print all pairs of integers in the array that sum to the target value
+    - Print the numbers in the order in which they appear in the array
+    - Do not print a pair more than once
   - If there are no pairs that sum to the target value, print "No pairs sum to `TARGET VALUE`"
 
 ***Example Input:***\

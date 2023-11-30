@@ -1,6 +1,6 @@
 # Array PairSum
 
-## Due: Tue 12/6 at 11:59 PM
+## Due: Tue 12/5 at 11:59 PM
 
 - Create a program called `PairSum.java`
 - Prompt the user for a number
